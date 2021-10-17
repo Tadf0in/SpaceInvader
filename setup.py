@@ -1,8 +1,7 @@
-# python setup.py build
 from cx_Freeze import setup, Executable
   
 executables = [
-        Executable(script = "main.py",icon = "SpaceInvader/images/icone.ico", base = "Win32GUI" )
+        Executable(script = "SpaceInvader/main.py", icon = "SpaceInvader/images/icone.ico", base = "Win32GUI" )
 ]
   
 buildOptions = dict( 
