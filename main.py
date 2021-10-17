@@ -37,7 +37,7 @@ game.sounds.playmusic('menu')
 font = pg.font.Font('SpaceInvader/fonts/Gameplay.ttf',24) # Police d'écriture utilisée
 
 # Textes affichés dans le menu
-fscore = open('bestscore.txt','r')
+fscore = open('SpaceInvader/bestscore.txt','r')
 bestscore = int(fscore.read())
 fscore.close()
 print(bestscore)
