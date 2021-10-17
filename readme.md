@@ -23,10 +23,10 @@ Logiciels utilisés
 
 Auteurs
     DUBY Fabien P1
-    AMOUDRUZ Louis P1
+    AMOUDRUZ Louis P1 (@Tadf0in)
 
 Ressources
     Google Images - Images
     MixKit - Sons et musiques
     
-Version 1.0.4.15
+Version 1.0.4.17
